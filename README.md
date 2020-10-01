@@ -1,16 +1,8 @@
-# corona_test
+# Covid-19 Test
 
-A new Flutter project.
+Get a Covid-19 test result without leaving home.
 
-## Getting Started
+I am using  **Tongue Scanner**. It is a next-generation built-in technology on high-end mobile devices, which detects and gives specific analyzed details of human DNA.
 
-This project is a starting point for a Flutter application.
+<img src="/previews/preview1.png" height="600px"/> <img src="/previews/preview2.png" height="600px"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
