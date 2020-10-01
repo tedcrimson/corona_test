@@ -2,7 +2,7 @@
 
 Get a Covid-19 test result without leaving home.
 
-[Android Apk Download](app.apk)
+[Android Apk Download](https://github.com/tedcrimson/corona_test/raw/master/app.apk)
 
 I am using  **Tongue Scanner**. It is a next-generation built-in technology on high-end mobile devices, which detects and gives specific analyzed details of human DNA.
 
